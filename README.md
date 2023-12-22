@@ -37,6 +37,3 @@ To-Do Items:
 
 Demo Recording:
 1.	In the project directory.
-
-
-![image](https://github.com/vchamala/FastApiProject/assets/49884971/68818e02-3607-43d1-89d2-8bfdcd4eac2d)
